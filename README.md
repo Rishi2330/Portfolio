@@ -49,7 +49,5 @@ npm run build
 ```
 
 👤 Author
+```
 Rishi Singh
-
----
-Let me know if you want me to help generate this file too!
