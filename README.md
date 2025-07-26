@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
+git clone [https://github.com/Rishi2330/Portfolio.git]
 cd your-repo-name
 ````
 
@@ -48,12 +48,8 @@ npm start
 npm run build
 ```
 
-## 📹 YouTube Tutorial
+👤 Author
+Rishi Singh
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+---
+Let me know if you want me to help generate this file too!
